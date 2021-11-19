@@ -8,12 +8,8 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
-      - label: Learn More
-        url: /features
-        style: secondary
+     
+     
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
@@ -27,18 +23,6 @@ sections:
     subtitle: Grid Section Example
     align: center
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Contentful logo
-        image_align: center
-      - image: images/logo-2.svg
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/logo-3.svg
-        image_alt: Gatsby logo
-        image_align: center
-      - image: images/logo-4.svg
-        image_alt: Sanity logo
-        image_align: center
       - image: images/logo-5.svg
         image_alt: DatoCMS logo
         image_align: center
