@@ -7,9 +7,7 @@ sections:
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
-    actions:
-     
-     
+    actions: {}
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
@@ -17,7 +15,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
